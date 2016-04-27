@@ -1,0 +1,28 @@
+name: defonteincoevorden
+favicon: null
+layout_spectrum: 0.7467504276428372
+typography_spectrum: 0.9281907109543681
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.2345877957995981
+  lightness: 0.6131173139438033
+  saturation: 0.4991942385677248
+  rhythmicContrast: 0.5875249793753028
+purpose: []
