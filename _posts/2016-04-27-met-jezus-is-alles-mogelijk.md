@@ -5,19 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Met Jezus is alles mogelijk!'
-datePublished: '2016-04-27T12:06:38.819Z'
-dateModified: '2016-04-27T12:06:13.728Z'
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+datePublished: '2016-05-20T14:33:19.880Z'
+dateModified: '2016-05-20T14:30:44.070Z'
 title: ''
 author: []
-starred: false
 sourcePath: _posts/2016-04-27-met-jezus-is-alles-mogelijk.md
-published: true
+authors: []
+publisher: null
+starred: false
 url: met-jezus-is-alles-mogelijk/index.html
 _type: Article
 
