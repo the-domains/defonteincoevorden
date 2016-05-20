@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[defonteincoevorden]]></title>
         <description><![CDATA[defonteincoevorden]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/defonteincoevorden/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Apr 2016 12:06:46 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 20 May 2016 14:33:28 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/defonteincoevorden/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Met Jezus is alles mogelijk!</p>]]></description>
-            <link>undefinedmet-jezus-is-alles-mogelijk/index.html</link>
+            <link>https://thegrid.ai/defonteincoevorden/met-jezus-is-alles-mogelijk/index.html</link>
             <guid isPermaLink="false">f12efe22-c296-4605-a830-009ffdfba833</guid>
-            <pubDate>Wed, 27 Apr 2016 12:06:38 GMT</pubDate>
+            <pubDate>Fri, 20 May 2016 14:33:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
