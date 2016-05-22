@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Met Jezus is alles mogelijk! '
-datePublished: '2016-05-22T18:45:02.251Z'
-dateModified: '2016-05-22T18:44:53.213Z'
+datePublished: '2016-05-22T18:55:40.913Z'
+dateModified: '2016-05-22T18:48:33.928Z'
 title: Over ons
 author: []
 sourcePath: _posts/2016-04-27-met-jezus-is-alles-mogelijk.md
@@ -22,6 +22,7 @@ Met Jezus is alles mogelijk!
 # Over ons
 
 **Welkom bij De Fontein!**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/56f59512-06b8-4c6f-9bd3-3156e0dfb33a.jpg)
 
 Wij willen graag mensen bekend maken en in contact brengen met de levende God. Onze deur staat open voor iedereen, ongeacht hun achtergrond of waar ze zich bevinden op hun geestelijke reis.
 
